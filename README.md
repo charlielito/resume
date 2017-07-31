@@ -1,5 +1,5 @@
 # Carlos Andres Alvarez
-Electronics Engineer + Data Scientist skills
+Electronics Engineer + Machine Learning
 
 ### Contact Info
 * email: candres.alv@gmail.com
@@ -7,28 +7,31 @@ Electronics Engineer + Data Scientist skills
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
-
+Electronics Engineering student (tenth semester). Trilingual. Focus on Telecommunications and Process automation. Very interested in development of new technologies, hardware, and signal and video processing. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and in team.
 
 ### Education
-* Karlsruhe Institute of Technology (2015): Exchange semester in KIT Germany
 * Pontificia Universidad Javeriana Cali - Electronics Engineer diploma (2010-2016): Honorable mention with Thesis *On Orthogonal Functions for the Detection and Characterization of Defects in Infrared Nondestructive Testing of Composite Materials*
-
+* Karlsruhe Institute of Technology (2015): Exchange semester in KIT Germany
+* Deutsche Schule Cali Colombia (1997-2010) - Colombian and international baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)
 
 ### Experience
-* Tesat Spacecom - Research intern (2015):
-* BD Guidance - IoT Development Engineer (current): Designed the curriculum of various Data Science/ML courses. Evaluated various IoT platforms. Investigated technologies such a TensorFlow and OpenCV to run ML algorithms in IoT devices.
+* BD Guidance - IoT Development Engineer (current): Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Dictated webinars and talks about IoT and ML several times.
+* Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
+that were adjustable in their center frequency on the satellite in-orbit.
 
 ### Research
-* [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](https://authors.elsevier.com/a/1VAOi3RA9S8GCU) in [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
+* [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](http://www.sciencedirect.com/science/article/pii/S0963869516301086) in [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
 
 ### Open Source
+* [node-red-contrib-sensor-ds18b20](https://flows.nodered.org/node/node-red-contrib-sensor-ds18b20): Node-RED contrib node to get temperature in centigrades from DS18B20 sensors.
 * Contributor to [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
 
+
 ### Areas of Interest
+##### Electronics Engineering
+Embbeded Systems, Internet of Things, Signal Processing, Hardware Development
 ##### Data Science
-Deep Learning/Neural Networks, Artificial Intelligence, Optimization/Heuristics, Mathematical Modelling, Agent-based Simulation, Network Analysis
-##### Development
-Functional Programming, Distributed Systems
+Deep Learning/Neural Networks, Artificial Intelligence, Machine Learning
 
 ### Languages
 * Spanish: native
@@ -36,14 +39,26 @@ Functional Programming, Distributed Systems
 * German: C1
 
 ### Programming Languages
-Python: 6+ years, Matlab: 6+ years, Mathematica : 3+ years, C#: 2+ years, Elixir: 2+ years, JavaScript: 1+ years, Dart: 1+ years, Cython: 1+ years
+Python: 5+ years, Matlab+Simulink: 5+ years, C: 2+ years, C++: 2+ years, Mathematica: 1+ years, JavaScript: 1+ years, Java: 1+ years
+
+##### Hardware and Systems
+VHDL, SDL MSC, UML
 
 ##### Mini-projects
 C, Java, Coq
 
+
 ### Tools/Frameworks
+##### Simulation
+* Circuits: [Multisim](http://www.ni.com/multisim/esa/), [PSpice](http://www.pspice.com/).
+* Electromagnetics: [ADS](http://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=CO&lc=eng), [HFSS](http://www.ansys.com/products/electronics/ansys-hfss), [CST](https://www.cst.com/), [MMana-Gal](http://hamsoft.ca/pages/mmana-gal.php), [QuickField](http://www.quickfield.com/).
+* Hardware: [Quartus suite](https://www.altera.com/downloads/download-center.html), [Xilinx suite](https://www.xilinx.com/)
+
+##### Hardware
+Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [Raspberry Pi](https://www.raspberrypi.org/) (2,3), [ESP8266](https://en.wikipedia.org/wiki/ESP8266) (NodeMCU, Wemos), RF Modules (nRF24L01)
+
 ##### Data Science
-[Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/),  [Spark](http://spark.apache.org/) (scala/python)
+[Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/)
 
 ##### Development
 [Flask](http://flask.pocoo.org/) (python), [Git](https://git-scm.com/)
@@ -55,11 +70,12 @@ C, Java, Coq
 ##### Organizations/Groups
 * Co-founder of [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
-* Contributor of [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
-* Contributor of [colomb-ia](https://github.com/colomb-ia/mision-vision)
+* Administrator in [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
+* Contributor to [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
 ##### Talks/Conferences
 * [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin]((https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
+* [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) at [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
 
 
 ##### Webinars
@@ -72,28 +88,34 @@ C, Java, Coq
 * [Snapchat filters in Python with OpenCv and Dlib](https://github.com/charlielito/snapchat-filters-opencv)
 * [Docker image for python openCV with contrib modules](https://github.com/charlielito/python-opencv-contrib)
 
-### Rewards
-*
-*
-*
 
 ### e-Learning
+* [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) by University of California on Coursera
+* [Quantum Mechanics for Scientists and Engineers](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about) by David Miller on Standford Online
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
-* [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton on Coursera
-* [Intro to Artificial Inteligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) by Sebastian Thrun and Peter Norvig on Udacity
-* [Artificial Inteligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) by Sebastian Thrun on Udacity
-* [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke (Google) on Udacity
-* [Software Development Process](https://www.udacity.com/course/software-development-process--ud805) by Alex Orso on Udacity.
+* [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing) by Xavier Serra (Universitat Pompeu Fabra of Barcelona) on Coursera
 
-### Things I Love
-##### Papers
+### Other Information
+#### Scholarships
+* "Beca Saber Pro" (2016), 2.500.000 pesos for postgraduate studies in PUJ Cali. Second best result of state exams in the university’s engineering faculty.
+* “DAAD Jóvenes Ingenieros Colombia ” (2014/15) All inclusive exchange program in Germany.
+* "Beca Magis" (2010/16) 75% tuiton fees all semesters for graduate studies.
+* PAD all inclusive scholarship (2009) student exchange in Germany for one month.
+
+#### Awards
+* Highest GPA of electrical department. Winter semester 2013
+* Three times highest GPA. Winter semester 2010, summer and winter semester 2011.
+
+##### Academic things I love
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
-* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) Mnih et al 2015 (Deep Mind)
-* [Playing FPS Games with Deep Reinforcement Learning](http://www.cs.cmu.edu/~dchaplot/papers/aaai17_fps_games.pdf) Glample et al 2017 (Carnegie Mellon)
-* [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) He et al 2015 (Microsoft)
-* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Hinton et al 2014 (Toronto University)
-* [Highway Networks](https://arxiv.org/pdf/1505.00387.pdf) Srivastava et al 2015
+* [You only look once (YOLO)](https://arxiv.org/pdf/1612.08242.pdf) Joseph Redmon, Ali Farhadi 2016
+* [YOLO in action](https://www.youtube.com/watch?v=VOC3huqHrss) on YouTube
 
 ##### Hobbies
 * Music: trombone and drums
 * Traveling
+
+### Personal references
+* Cristian García - Data Scientist at BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Dr. Luis Eduardo Tobon - Director of Postgraduates programms at Javeriana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
+* Dr. Tobias Kaesser - Passive Products at Tesat-Spacecom. Email: Tobias.Kaesser@tesat.de
