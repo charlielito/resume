@@ -1,5 +1,5 @@
 # Carlos Andrés Álvarez
-Ingeniero Electrónico y Machine Learning
+Ingeniero Electrónico + Machine Learning
 
 ### Información de Contacto
 * email: candres.alv@gmail.com
@@ -7,22 +7,24 @@ Ingeniero Electrónico y Machine Learning
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Resumen
-Ingeniero electrónico trilingüe, con énfasis en Telecomunicaciones y Automatización de Procesos. Interesado en las áreas de desarrollo de nuevas tecnologías, hardware y procesamiento de señales. Apasionado por la tecnología, la ciencia y la adquisición constante de nuevos conocimientos. Buen programador y matemático, disciplinado, con habilidades para trabajar bajo presión y en equipo.
+Ingeniero electrónico trilingüe, con énfasis en Telecomunicaciones y Automatización de Procesos. Interesado en las áreas de desarrollo de nuevas tecnologías, hardware, internet de las cosas e inteligencia artificial. Apasionado por la ciencia, la técnica y la adquisición constante de nuevos conocimientos. Buen programador y matemático, disciplinado, con habilidades para trabajar bajo presión y en equipo.
 
 
 ### Educación
-* Pontificia Universidad Javeriana Cali - Título en Ingeniería Electrónica (2010-2016): Trabajo de grado *Aplicación de funciones ortogonales para la caracterización y detección de defectos en  ensayo  no destructivo infrarrojo* con mención de Honor.
+* Pontificia Universidad Javeriana Cali - Título en Ingeniería Electrónica (2010-2016): Trabajo de grado *Aplicación de funciones ortogonales para la caracterización y detección de defectos en ensayo no destructivo infrarrojo* con mención de Honor.
 * Karlsruhe Institute of Technology (2015): Semestre de ingeniería electrónica en KIT Alemania.
 * Deutsche Schule Cali Colombia (1997-2010) - Bachillerato académico e internacional (International Baccalaureate IBO). Puesto 6 en los exámenes ICFES
 
 
 ### Experiencia
-* BD Guidance - IoT Development Engineer (current): Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Dictated webinars and talks about IoT and ML several times.
-* Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
-that were adjustable in their center frequency on the satellite in-orbit.
+  * BD Guidance - Ingeniero de Desarrollo IoT (actual): Encargado de investigar sobre tecnologías como TensorFlow y OpenCV para correr algoritmos de Machine Learning en dispositivos embebidos. Programé dispositivos como Raspberry Pi y NodeMCU para aplicaciones de control de entornos cerrados. Diseñé el currículo de varios cursos de Internet de las Cosas y grabé uno de ellos. Evalué varias plataformas Cloud en los servicios de IoT y Machine Learning. Realizé webinars y conferencias sobre IoT y Machine Learning.
+* Tesat Spacecom - Practicante de investigación y desarrollo (2015): Encargado de investigar e implementar nueva tecnología de filtros en la banda Ka (20 GHz)
+cuya frecuencia central es ajustable en órbita.
+* Pontificia Universidad Javeriana Cali (2011-2016) - Monitor de Cálculo I y II, programación, electrónica analógica y alta frecuencia. Encargado de explicar y realizar ejercicios de las materias, guiar y calificar laboratorios.
+
 
 ### Investigación
-* [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](http://www.sciencedirect.com/science/article/pii/S0963869516301086) in [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
+* [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](http://www.sciencedirect.com/science/article/pii/S0963869516301086) en [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
 
 ### Código libre/Open Source
 * [node-red-contrib-sensor-ds18b20](https://flows.nodered.org/node/node-red-contrib-sensor-ds18b20): Módulo de Node-Red para leer fácilmente la temperatura de sensores DS19B20.
@@ -31,9 +33,9 @@ that were adjustable in their center frequency on the satellite in-orbit.
 
 ### Áreas de Interés
 ##### Ingeniería Electrónica
-Sistemas embebidos, Internet de las Cosas, Procesamiento de señales, Desarrollo de Hardware
+Sistemas embebidos, internet de las cosas, procesamiento de señales, desarrollo de Hardware
 ##### Ciencia de Datos
-Deep Learning/Neural Networks, Artificial Intelligence, Machine Learning
+Deep Learning/Redes Neuronales, Inteligencia Artificial, Aprendizaje de Máquina/Machine Learning
 
 ### Idiomas
 * Español: nativo
@@ -52,60 +54,60 @@ C, Java, Coq
 
 ### Herramientas/Frameworks
 ##### Simulación
-* Circuits: [Multisim](http://www.ni.com/multisim/esa/), [PSpice](http://www.pspice.com/).
-* Electromagnetics: [ADS](http://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=CO&lc=eng), [HFSS](http://www.ansys.com/products/electronics/ansys-hfss), [CST](https://www.cst.com/), [MMana-Gal](http://hamsoft.ca/pages/mmana-gal.php), [QuickField](http://www.quickfield.com/).
+* Circuitos: [Multisim](http://www.ni.com/multisim/esa/), [PSpice](http://www.pspice.com/).
+* Electromagnetismo: [ADS](http://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=CO&lc=eng), [HFSS](http://www.ansys.com/products/electronics/ansys-hfss), [CST](https://www.cst.com/), [MMana-Gal](http://hamsoft.ca/pages/mmana-gal.php), [QuickField](http://www.quickfield.com/).
 * Hardware: [Quartus suite](https://www.altera.com/downloads/download-center.html), [Xilinx suite](https://www.xilinx.com/)
 
 ##### Hardware
-Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [Raspberry Pi](https://www.raspberrypi.org/) (2,3), [ESP8266](https://en.wikipedia.org/wiki/ESP8266) (NodeMCU, Wemos), RF Modules (nRF24L01)
+Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [Raspberry Pi](https://www.raspberrypi.org/) (2,3), [ESP8266](https://en.wikipedia.org/wiki/ESP8266) (NodeMCU, Wemos), Módulos RF (nRF24L01)
 
-##### Data Science
+##### Ciencia de Datos
 [Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/)
 
-##### Development
+##### Desarrollo
 [Flask](http://flask.pocoo.org/) (python), [Git](https://git-scm.com/)
 
 ##### DevOps
 [Docker](https://www.docker.com/), [Ngrok](https://ngrok.com/)
 
-### Community
-##### Organizations/Groups
-* Co-founder of [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
-* Co-founder of [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
-* Administrator in [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
-* Contributor to [colomb-ia](https://github.com/colomb-ia/mision-vision)
+### Communidad
+##### Organizaciones/Grupos
+* Co-fundador de [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
+* Co-fundador de [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
+* Administrador in [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
+* Contribuidor de [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
-##### Talks/Conferences
-* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin]((https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
-* [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) at [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
+##### Charlas/Conferencias
+* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) en [SmartCities & IoT Meetup Medellin]((https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
+* [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) en [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
 
 
 ##### Webinars
-* [Introducción al Internet de las cosas (IoT) con Raspberry Pi, Node-Red y Watson](https://www.youtube.com/watch?v=PMdjfwJIE6A&t=1129s) with BD Guidance on Youtube.
+* [Introducción al Internet de las cosas (IoT) con Raspberry Pi, Node-Red y Watson](https://www.youtube.com/watch?v=PMdjfwJIE6A&t=1129s) con BD Guidance en Youtube.
 
 
-### Projects
-* [Running Convnets on RaspberryPi](https://github.com/charlielito/convnets-on-raspberry-tensorflow)
-* [IoT Demo with Raspberry, Node-Red and Watson](https://github.com/charlielito/demoIoT)
-* [Snapchat filters in Python with OpenCv and Dlib](https://github.com/charlielito/snapchat-filters-opencv)
-* [Docker image for python openCV with contrib modules](https://github.com/charlielito/python-opencv-contrib)
+### Proyectos
+* [Corriendo Redes Convolucionales en RaspberryPi](https://github.com/charlielito/convnets-on-raspberry-tensorflow)
+* [Demo IoT con Raspberry, Node-Red y Watson](https://github.com/charlielito/demoIoT)
+* [Filtros Snapchat en Python con OpenCV](https://github.com/charlielito/snapchat-filters-opencv)
+* [Imagen de Docker para python openCV con módulos contrib](https://github.com/charlielito/python-opencv-contrib)
 
 
 
 ### e-Learning
-* [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) by University of California on Coursera
-* [Quantum Mechanics for Scientists and Engineers](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about) by David Miller on Standford Online
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
-* [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing) by Xavier Serra (Universitat Pompeu Fabra of Barcelona) on Coursera
+* [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) por la Universidad de California en Coursera
+* [Quantum Mechanics for Scientists and Engineers](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about) por David Miller en Standford Online
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) por Andrew Ng en Coursera
+* [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing) por Xavier Serra (Universidad Pompeu Fabra de Barcelona) en Coursera
 
-### Other Information
-#### Scholarships
+### Otra Información
+#### Becas
 * "Beca Saber Pro" (2016), 2.500.000 pesos for postgraduate studies in PUJ Cali. Second best result of state exams in the university’s engineering faculty.
 * “DAAD Jóvenes Ingenieros Colombia ” (2014/15) All inclusive exchange program in Germany.
 * "Beca Magis" (2010/16) 75% tuiton fees all semesters for graduate studies.
 * PAD all inclusive scholarship (2009) student exchange in Germany for one month.
 
-#### Awards
+#### Reconocimientos
 * Highest GPA of electrical department. Winter semester 2013
 * Three times highest GPA. Winter semester 2010, summer and winter semester 2011.
 
@@ -118,7 +120,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Music: trombone and drums
 * Traveling
 
-### Personal references
-* Cristian García - Data Scientist at BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
-* Dr. Luis Eduardo Tobon - Director of Postgraduates programms at Javeriana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
-* Dr. Tobias Kaesser - Passive Products at Tesat-Spacecom. Email: Tobias.Kaesser@tesat.de
+### Referencias Personales
+* Cristian García - Data Scientist en BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Dr. Luis Eduardo Tobon - Director de Posgrados en Universidad Javeriana Cali. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
+* Dr. Tobias Kaesser - Investigador productos pasivos en Tesat-Spacecom Alemania. Email: Tobias.Kaesser@tesat.de
