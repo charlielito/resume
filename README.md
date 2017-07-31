@@ -9,13 +9,16 @@ Electronics Engineer + Machine Learning
 ### Summary
 Electronics Engineering student (tenth semester). Trilingual. Focus on Telecommunications and Process automation. Very interested in development of new technologies, hardware, and signal and video processing. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and in team.
 
+
+Ingeniero electrónico trilingüe, con énfasis en Telecomunicaciones y Automatización de Procesos. Interesado en las áreas de desarrollo de nuevas tecnologías, hardware, internet de las cosas e inteligencia artificial. Apasionado por la ciencia, la técnica y la adquisición constante de nuevos conocimientos. Buen programador y matemático, disciplinado, con habilidades para trabajar bajo presión y en equipo.
+
 ### Education
 * Pontificia Universidad Javeriana Cali - Electronics Engineer diploma (2010-2016): Honorable mention with Thesis *On Orthogonal Functions for the Detection and Characterization of Defects in Infrared Nondestructive Testing of Composite Materials*
 * Karlsruhe Institute of Technology (2015): Exchange semester in KIT Germany
 * Deutsche Schule Cali Colombia (1997-2010) - Colombian and international baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)
 
 ### Experience
-* BD Guidance - IoT Development Engineer (current): Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Dictated webinars and talks about IoT and ML several times.
+* BD Guidance - IoT Development Engineer (current): Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Programmed devices like Raspberry Pi and NodeMCU for closed environments and rooms applications. Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Evaluated IoT and Machine Learning services of various Cloud platforms. Presented webinars and talks about IoT and ML several times. Designed the curriculum of various IoT courses and recorded one course.
 * Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
 that were adjustable in their center frequency on the satellite in-orbit.
 
