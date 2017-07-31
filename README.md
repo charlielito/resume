@@ -74,11 +74,11 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 ##### Organizaciones/Grupos
 * Co-fundador de [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * Co-fundador de [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
-* Administrador in [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
+* Administrador en [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
 * Contribuidor de [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
 ##### Charlas/Conferencias
-* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) en [SmartCities & IoT Meetup Medellin]((https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
+* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) en [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) en [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
 
 
@@ -102,23 +102,24 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 
 ### Otra Información
 #### Becas
-* "Beca Saber Pro" (2016), 2.500.000 pesos for postgraduate studies in PUJ Cali. Second best result of state exams in the university’s engineering faculty.
-* “DAAD Jóvenes Ingenieros Colombia ” (2014/15) All inclusive exchange program in Germany.
-* "Beca Magis" (2010/16) 75% tuiton fees all semesters for graduate studies.
-* PAD all inclusive scholarship (2009) student exchange in Germany for one month.
+* Beca por $2.500.00 para posgrado en PUJ 2016 por segundo mejor resultado en la prueba SABER PRO de la facultad de ingeniería (2016).
+* Programa del DAAD Jóvenes Ingenieros Colombia. Intercambio académico y práctica obligatoria en Alemania (2014 - 2015).
+* Beca Magis por 75% del valor de la carrera Ing. Electrónica (Junio 2010).
+* Beca del PAD para un intercambio estudiantil en alemania durante un mes (Junio 2009).
 
 #### Reconocimientos
-* Highest GPA of electrical department. Winter semester 2013
-* Three times highest GPA. Winter semester 2010, summer and winter semester 2011.
+* Mejor promedio de la carrera Ing. Electrónica, semestre 2013-2.
+* Tres veces mejor promedio del semestre en Ing. Electrónica. Semestres 2010-2, 2011-1 y 2011-2.
 
-##### Academic things I love
+##### Trabajo Académico que me encanta
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
 * [You only look once (YOLO)](https://arxiv.org/pdf/1612.08242.pdf) Joseph Redmon, Ali Farhadi 2016
-* [YOLO in action](https://www.youtube.com/watch?v=VOC3huqHrss) on YouTube
+* [YOLO en acción](https://www.youtube.com/watch?v=VOC3huqHrss) en YouTube
 
 ##### Hobbies
-* Music: trombone and drums
-* Traveling
+* Tocar trombón en bandas de ska, orquestas de salsa y orquestas clásicas
+* Tocar batería en bandas de rock
+* Viajar
 
 ### Referencias Personales
 * Cristian García - Data Scientist en BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
