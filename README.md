@@ -17,7 +17,7 @@ Ingeniero electrónico trilingüe, con énfasis en Telecomunicaciones y Automati
 
 
 ### Experiencia
-  * BD Guidance - Ingeniero de Desarrollo IoT (actual): Encargado de investigar sobre tecnologías como TensorFlow y OpenCV para correr algoritmos de Machine Learning en dispositivos embebidos. Programé dispositivos como Raspberry Pi y NodeMCU para aplicaciones de control de entornos cerrados. Diseñé el currículo de varios cursos de Internet de las Cosas y grabé uno de ellos. Evalué varias plataformas Cloud en los servicios de IoT y Machine Learning. Realizé webinars y conferencias sobre IoT y Machine Learning.
+  * BD Guidance - Ingeniero de Desarrollo IoT (actual): Encargado de investigar sobre tecnologías como TensorFlow y OpenCV para correr algoritmos de Machine Learning en dispositivos embebidos. Programé dispositivos como Raspberry Pi y NodeMCU para aplicaciones de control de entornos cerrados. Diseñé el currículo de varios cursos de Internet de las Cosas y grabé uno de ellos. Evalué varias plataformas Cloud en los servicios de IoT y Machine Learning. Realicé webinars y conferencias sobre IoT y Machine Learning.
 * Tesat Spacecom - Practicante de investigación y desarrollo (2015): Encargado de investigar e implementar nueva tecnología de filtros en la banda Ka (20 GHz)
 cuya frecuencia central es ajustable en órbita.
 * Pontificia Universidad Javeriana Cali (2011-2016) - Monitor de Cálculo I y II, programación, electrónica analógica y alta frecuencia. Encargado de explicar y realizar ejercicios de las materias, guiar y calificar laboratorios.
@@ -70,7 +70,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 ##### DevOps
 [Docker](https://www.docker.com/), [Ngrok](https://ngrok.com/)
 
-### Communidad
+### Comunidad
 ##### Organizaciones/Grupos
 * Co-fundador de [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * Co-fundador de [Machine Learning Meetup Medellin](https://www.meetup.com/es-ES/ml-medellin)
@@ -96,7 +96,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 
 ### e-Learning
 * [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) por la Universidad de California en Coursera
-* [Quantum Mechanics for Scientists and Engineers](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about) por David Miller en Standford Online
+* [Quantum Mechanics for Scientists and Engineers](https://lagunita.stanford.edu/courses/course-v1:Engineering+QMSE01+Fall2016/about) por David Miller en Stanford Online
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) por Andrew Ng en Coursera
 * [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing) por Xavier Serra (Universidad Pompeu Fabra de Barcelona) en Coursera
 
@@ -123,5 +123,5 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 
 ### Referencias Personales
 * Cristian García - Data Scientist en BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
-* Dr. Luis Eduardo Tobon - Director de Posgrados en Universidad Javeriana Cali. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
+* Dr. Luis Eduardo Tobón - Director de Posgrados en Universidad Javeriana Cali. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
 * Dr. Tobias Kaesser - Investigador productos pasivos en Tesat-Spacecom Alemania. Email: Tobias.Kaesser@tesat.de
