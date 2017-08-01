@@ -1,4 +1,4 @@
-# Carlos Andres Alvarez
+# Carlos Andrés Álvarez
 Electronics Engineer + Machine Learning
 
 ### Contact Info
@@ -30,7 +30,7 @@ that were adjustable in their center frequency on the satellite in-orbit.
 
 ### Areas of Interest
 ##### Electronics Engineering
-Embbeded Systems, Internet of Things, Signal Processing, Hardware Development
+Embedded Systems, Internet of Things, Signal Processing, Hardware Development
 ##### Data Science
 Deep Learning/Neural Networks, Artificial Intelligence, Machine Learning
 
@@ -100,7 +100,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 #### Scholarships
 * "Beca Saber Pro" (2016), 2.500.000 pesos for postgraduate studies in PUJ Cali. Second best result of state exams in the university’s engineering faculty.
 * “DAAD Jóvenes Ingenieros Colombia ” (2014/15) All inclusive exchange program in Germany.
-* "Beca Magis" (2010/16) 75% tuiton fees all semesters for graduate studies.
+* "Beca Magis" (2010/16) 75% tuition fees all semesters for graduate studies.
 * PAD all inclusive scholarship (2009) student exchange in Germany for one month.
 
 #### Awards
@@ -117,6 +117,6 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Traveling
 
 ### Personal references
-* Cristian García - Data Scientist at BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
-* Dr. Luis Eduardo Tobón - Director of Postgraduates programms at Javeriana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
+* Cristian García - Data Scientist at BD Guidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Dr. Luis Eduardo Tobón - Director of Postgraduates programs at Javeriana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
 * Dr. Tobias Kaesser - Passive Products at Tesat-Spacecom. Email: Tobias.Kaesser@tesat.de
