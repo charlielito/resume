@@ -122,6 +122,6 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Viajar
 
 ### Referencias Personales
-* Cristian García - Data Scientist en BDGuidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Cristian García - Data Scientist en BD Guidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
 * Dr. Luis Eduardo Tobón - Director de Posgrados en Universidad Javeriana Cali. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
 * Dr. Tobias Kaesser - Investigador productos pasivos en Tesat-Spacecom Alemania. Email: Tobias.Kaesser@tesat.de
