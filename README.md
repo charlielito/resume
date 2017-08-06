@@ -89,6 +89,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 ### Proyectos
 * [Corriendo Redes Convolucionales en RaspberryPi](https://github.com/charlielito/convnets-on-raspberry-tensorflow)
 * [Demo IoT con Raspberry, Node-Red y Watson](https://github.com/charlielito/demoIoT)
+* [Análisis de sentimientos en imágenes con Google](https://github.com/charlielito/vision-sentiment-analysis-googleapi)
 * [Filtros Snapchat en Python con OpenCV](https://github.com/charlielito/snapchat-filters-opencv)
 * [Imagen de Docker para python openCV con módulos contrib](https://github.com/charlielito/python-opencv-contrib)
 
