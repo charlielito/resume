@@ -112,6 +112,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
 * [You only look once (YOLO)](https://arxiv.org/pdf/1612.08242.pdf) Joseph Redmon, Ali Farhadi 2016
 * [YOLO in action](https://www.youtube.com/watch?v=VOC3huqHrss) on YouTube
+* [Bringing Impressionism to Life with Neural Style Transfer in Come Swim](https://arxiv.org/pdf/1701.04928.pdf)
 
 ##### Hobbies
 * Music: trombone and drums
