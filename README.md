@@ -75,7 +75,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Contributor to [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
 ##### Talks/Conferences
-* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin]((https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
+* [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) at [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
 
 
