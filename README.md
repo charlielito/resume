@@ -1,5 +1,5 @@
 # Carlos Andrés Álvarez
-Electronics Engineer + Machine Learning
+Data Scientist & Electronics Engineer
 
 ### Contact Info
 * email: candres.alv@gmail.com
@@ -7,7 +7,7 @@ Electronics Engineer + Machine Learning
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
-Trilingual Electronics Engineer with emphasis on Telecommunications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial intelligence. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.
+Trilingual Data Scientist and Electronics Engineer with emphasis on Telecommunications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial intelligence. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.
 
 
 ### Education
@@ -16,7 +16,8 @@ Trilingual Electronics Engineer with emphasis on Telecommunications and Process 
 * Deutsche Schule Cali Colombia (1997-2010) - Colombian and international baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)
 
 ### Experience
-* BD Guidance - IoT Development Engineer (current): Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Programmed devices like Raspberry Pi and NodeMCU for closed environments and rooms applications. Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Evaluated IoT and Machine Learning services of various Cloud platforms. Presented webinars and talks about IoT and ML several times. Designed the curriculum of various IoT courses and recorded one course.
+* Kiwi Campus - Self Driving Vehicles Data Scientist (current): Data Scientist and Deep Learning researcher for autonomous driving vehicles.
+* BD Guidance - IoT Development Engineer (2017): Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Programmed devices like Raspberry Pi and NodeMCU for closed environments and rooms applications. Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Evaluated IoT and Machine Learning services of various Cloud platforms. Presented webinars and talks about IoT and ML several times. Designed the curriculum of various IoT courses and recorded one course.
 * Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
 that were adjustable in their center frequency on the satellite in-orbit.
 
@@ -25,7 +26,7 @@ that were adjustable in their center frequency on the satellite in-orbit.
 
 ### Open Source
 * [node-red-contrib-sensor-ds18b20](https://flows.nodered.org/node/node-red-contrib-sensor-ds18b20): Node-RED contrib node to get temperature in centigrades from DS18B20 sensors.
-* Contributor to [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.
+* Contributor to [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.  
 
 
 ### Areas of Interest
@@ -119,6 +120,7 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Traveling
 
 ### Personal references
-* Cristian García - Data Scientist at BD Guidance. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Cristian García - Lead Data Scientist at Kiwi Campus. Cel: 314 862 7978, email: cgarcia.e88@gmail.com
+* Orlando Briceno - CEO at BD Guidance. Cel: 321 477 2967, email: orlando.briceno@bdguidance.com
 * Dr. Luis Eduardo Tobón - Director of Postgraduates programs at Javeriana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co
 * Dr. Tobias Kaesser - Passive Products at Tesat-Spacecom. Email: Tobias.Kaesser@tesat.de
