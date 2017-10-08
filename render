@@ -1,0 +1,3 @@
+#! /bin/bash
+
+pandoc -S -o README.pdf README.md --variable urlcolor=blue

@@ -3,7 +3,7 @@ Data Scientist & Electronics Engineer
 
 ### Contact Info
 * email: candres.alv@gmail.com
-* cel: (+57) 300 269 9682
+* cel: (+1) 510 981 94 18 - (+57) 300 269 9682
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
@@ -43,11 +43,9 @@ Deep Learning/Neural Networks, Artificial Intelligence, Machine Learning
 ### Programming Languages
 Python: 5+ years, Matlab+Simulink: 5+ years, C: 2+ years, C++: 2+ years, Mathematica: 1+ years, JavaScript: 1+ years, Java: 1+ years
 
-##### Hardware and Systems
-VHDL, SDL MSC, UML
+**Hardware and Systems:** VHDL, SDL MSC, UML
 
-##### Mini-projects
-C, Java, Coq
+**Mini-projects:** C, Java, Coq
 
 
 ### Tools/Frameworks
@@ -56,17 +54,13 @@ C, Java, Coq
 * Electromagnetics: [ADS](http://www.keysight.com/en/pc-1297113/advanced-design-system-ads?cc=CO&lc=eng), [HFSS](http://www.ansys.com/products/electronics/ansys-hfss), [CST](https://www.cst.com/), [MMana-Gal](http://hamsoft.ca/pages/mmana-gal.php), [QuickField](http://www.quickfield.com/).
 * Hardware: [Quartus suite](https://www.altera.com/downloads/download-center.html), [Xilinx suite](https://www.xilinx.com/)
 
-##### Hardware
-Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [Raspberry Pi](https://www.raspberrypi.org/) (2,3), [ESP8266](https://en.wikipedia.org/wiki/ESP8266) (NodeMCU, Wemos), RF Modules (nRF24L01)
+**Hardware:** Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [Raspberry Pi](https://www.raspberrypi.org/) (2,3), [ESP8266](https://en.wikipedia.org/wiki/ESP8266) (NodeMCU, Wemos), RF Modules (nRF24L01)
 
-##### Data Science
-[Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/)
+**Data Science:** [Tensorflow](https://www.tensorflow.org/) (python), [Scikit Learn](http://scikit-learn.org) (python), [Pandas](http://pandas.pydata.org/), [Numpy](http://www.numpy.org/)
 
-##### Development
-[Flask](http://flask.pocoo.org/) (python), [Git](https://git-scm.com/)
+**Development:** [Flask](http://flask.pocoo.org/) (python), [Git](https://git-scm.com/)
 
-##### DevOps
-[Docker](https://www.docker.com/), [Ngrok](https://ngrok.com/)
+**DevOps:** [Docker](https://www.docker.com/), [Ngrok](https://ngrok.com/)
 
 ### Community
 ##### Organizations/Groups
@@ -75,12 +69,9 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Administrator in [Machine Learning Colombia](https://www.facebook.com/groups/1766056600304468)
 * Contributor to [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
-##### Talks/Conferences
+##### Talks/Conferences and Webinars
 * [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) at [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
-
-
-##### Webinars
 * [Introducción al Internet de las cosas (IoT) con Raspberry Pi, Node-Red y Watson](https://www.youtube.com/watch?v=PMdjfwJIE6A&t=1129s) with BD Guidance on Youtube.
 
 
@@ -109,11 +100,6 @@ Xilinx and Altera FPGAs, [Arduino](https://www.arduino.cc/) (Mini, Nano, Uno), [
 * Highest GPA of electrical department. Winter semester 2013
 * Three times highest GPA. Winter semester 2010, summer and winter semester 2011.
 
-##### Academic things I love
-* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) Mnih et al 2013 (Deep Mind)
-* [You only look once (YOLO)](https://arxiv.org/pdf/1612.08242.pdf) Joseph Redmon, Ali Farhadi 2016
-* [YOLO in action](https://www.youtube.com/watch?v=VOC3huqHrss) on YouTube
-* [Bringing Impressionism to Life with Neural Style Transfer in Come Swim](https://arxiv.org/pdf/1701.04928.pdf)
 
 ##### Hobbies
 * Music: trombone and drums
