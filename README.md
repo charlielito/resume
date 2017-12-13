@@ -70,6 +70,7 @@ Python: 5+ years, Matlab+Simulink: 5+ years, C: 2+ years, C++: 2+ years, Mathema
 * Contributor to [colomb-ia](https://github.com/colomb-ia/mision-vision)
 
 ##### Talks/Conferences and Webinars
+* [Using TensorFlow for Deep Learning on Autonomous Vehicles at Kiwi Campus](https://www.meetup.com/es-ES/Advanced-Spark-and-TensorFlow-Meetup/events/244971261/)
 * [IoT con NodeRed & Watson](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/events/238385353/) at [SmartCities & IoT Meetup Medellin](https://www.meetup.com/es-ES/SmartCities-IoT-Meetup-Medellin/)
 * [Introduction to Machine Learning](https://www.eventbrite.es/e/entradas-tour-por-colombia-internet-de-la-cosas-machine-learning-cali-36326903747) at [BDG Institute Colombia Tour](http://bdginstitute.com/tourporcolombia/)
 * [Introducción al Internet de las cosas (IoT) con Raspberry Pi, Node-Red y Watson](https://www.youtube.com/watch?v=PMdjfwJIE6A&t=1129s) with BD Guidance on Youtube.
