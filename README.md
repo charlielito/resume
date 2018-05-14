@@ -25,6 +25,8 @@ that were adjustable in their center frequency on the satellite in-orbit.
 * [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](http://www.sciencedirect.com/science/article/pii/S0963869516301086) in [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
 
 ### Open Source
+* [easy_memmap](https://github.com/charlielito/easy_memmap): Python memmap wrapper to share arrays easily between processes.
+* [extended_rospylogs](https://github.com/charlielito/extended_rospylogs): Extension of logs for rospy based on roscpp.
 * [node-red-contrib-sensor-ds18b20](https://flows.nodered.org/node/node-red-contrib-sensor-ds18b20): Node-RED contrib node to get temperature in centigrades from DS18B20 sensors.
 * Contributor to [dataget](https://github.com/cgarciae/dataget): download, extract and process popular machine learning datasets with a single line of bash or python.  
 
