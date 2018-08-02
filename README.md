@@ -16,7 +16,7 @@ Trilingual Data Scientist and Electronics Engineer with emphasis on Telecommunic
 * Deutsche Schule Cali Colombia (1997-2010) - Colombian and international baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)
 
 ### Experience
-* Kiwi Campus - Self Driving Vehicles Data Scientist (current): Data Scientist and Deep Learning researcher for autonomous driving vehicles.
+* Kiwi Campus - Lead of Integration & ML Engineer (current): Deep Learning researcher for autonomous driving vehicles, in charge of integrating and implementing different pieces of software at device level. Design of software architecture and hardware.
 * BD Guidance - IoT Development Engineer (2017): Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Programmed devices like Raspberry Pi and NodeMCU for closed environments and rooms applications. Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Evaluated IoT and Machine Learning services of various Cloud platforms. Presented webinars and talks about IoT and ML several times. Designed the curriculum of various IoT courses and recorded one course.
 * Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
 that were adjustable in their center frequency on the satellite in-orbit.
