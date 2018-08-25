@@ -3,7 +3,7 @@ Data Scientist & Electronics Engineer
 
 ### Contact Info
 * email: candres.alv@gmail.com
-* cel: (+1) 510 704 3598 - (+57) 300 269 9682
+* cel: (+1) 510 704 3598 - (+57) 350 521 3741 - (+57) 300 269 9682
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
