@@ -1,5 +1,5 @@
 # Carlos Andrés Álvarez
-Data Scientist & Electronics Engineer
+Machine Learning & Electronics Engineer
 
 ### Contact Info
 * email: candres.alv@gmail.com
@@ -7,7 +7,7 @@ Data Scientist & Electronics Engineer
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
-Trilingual Data Scientist and Electronics Engineer with emphasis on Telecommunications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial intelligence. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.
+Trilingual Machine Learning and Electronics Engineer with emphasis on Telecommunications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial intelligence. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.
 
 
 ### Education
