@@ -7,8 +7,7 @@ Machine Learning & Electronics Engineer
 * linkedin: https://www.linkedin.com/in/calvarez92/
 
 ### Summary
-Trilingual Machine Learning and Electronics Engineer with emphasis on Telecommunications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial intelligence. Passionate for technology, science, and acquiring constantly new knowledge.  Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.
-
+Trilingual Machine Learning and Electronics Engineer. Very interested in development of new technologies, hardware, internet of things, artificial intelligence, computer vision and deep learning. Experience creating and deploying real world solutions at scale for embbeded devices. Passionate for technology, science, and acquiring constantly new knowledge.
 
 ### Education
 * Pontificia Universidad Javeriana Cali - Electronics Engineer diploma (2010-2016): Honorable mention with Thesis *On Orthogonal Functions for the Detection and Characterization of Defects in Infrared Nondestructive Testing of Composite Materials*
@@ -16,10 +15,9 @@ Trilingual Machine Learning and Electronics Engineer with emphasis on Telecommun
 * Deutsche Schule Cali Colombia (1997-2010) - Colombian and international baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)
 
 ### Experience
-* Kiwi Campus - Lead of Integration & ML Engineer (current): Deep Learning researcher for autonomous driving vehicles, in charge of integrating and implementing different pieces of software at device level. Design of software architecture and hardware.
+* Kiwi Campus - Lead of Integration & AI Engineer (current): Deep Learning researcher for autonomous driving vehicles, in charge of integrating and implementing different pieces of software at device level. Design of software architecture and hardware.
 * BD Guidance - IoT Development Engineer (2017): Investigated technologies such as TensorFlow and OpenCV to run ML algorithms in embedded devices. Programmed devices like Raspberry Pi and NodeMCU for closed environments and rooms applications. Designed the curriculum of various IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. Evaluated IoT and Machine Learning services of various Cloud platforms. Presented webinars and talks about IoT and ML several times. Designed the curriculum of various IoT courses and recorded one course.
-* Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters
-that were adjustable in their center frequency on the satellite in-orbit.
+* Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) passband filters that were adjustable in their center frequency on the satellite in-orbit.
 
 ### Research
 * [Characterization of defects of pulsed thermography inspections by orthogonal polynomial decomposition](http://www.sciencedirect.com/science/article/pii/S0963869516301086) in [Elsevier NDT & E International](https://www.journals.elsevier.com/ndt-and-e-international/)
